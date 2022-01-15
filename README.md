@@ -12,7 +12,7 @@
 
 "만들기-측정-학습 피드백 순환"입니다.
 
-<!-- ![Feedback Loop](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/01Joseph-Hwang10/growth-hacking/main/static/process.puml) -->
+![Feedback Loop](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/01Joseph-Hwang10/growth-hacking/main/static/process.puml)
 
 또한 위키피디아에서 가져온 인용에서 눈 여겨봐야할 부분은
 
