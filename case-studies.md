@@ -1,5 +1,7 @@
 # Case Studies
 
+이 문서는 아직 다 완성되지 않았습니다. 
+
 ## Growth Hacking : Perspective Revision
 
 > How can I gain as many customers as possible, with limited resources?
@@ -24,7 +26,7 @@ Optinmonster에서는 Growth Hacking Strategy로 다음을 제시합니다.
 
 - Growth Hacking은 마케팅에 적용하는 Lean Startup 방법론이다.
 - Growth Hacking 전략을 적용하는 곳은 컨텐츠가 될 수도, 제품이 될 수도, 광고가 될 수도 있다.
-- Growth Hacking은 기본적으로 제품 개발과 그 과정을 함께하는 마케팅 전략이다.
+- Growth Hacking은 기본적으로 제품 개발과 그 과정을 함께하는 마케팅 전략이다.[^7]
 
 ## [Dollar Shave Club](https://www.dollarshaveclub.com/)[^1]
 
@@ -77,3 +79,4 @@ AI 기반 마케팅 솔루션을 제공하는 Latana는 이 광고의 다음과 
 [^4]: <https://www.abtasty.com/blog/what-is-growth-hacking/>
 [^5]: <https://latana.com/post/dollar-shave-club-marketing/>
 [^6]: <https://optinmonster.com/glossary/growth-hacking/>
+[^7]: <https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06702438>
